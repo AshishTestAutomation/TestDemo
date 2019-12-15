@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Bigtreecms_FileUpload]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="FileUpload(failed)">
+    <classes>
+      <class name="com.bigtree.test.ImageUpload">
+        <methods>
+          <include name="TearDown"/>
+          <include name="VerifyDeleteImages"/>
+          <include name="LaunchBrowser"/>
+        </methods>
+      </class> <!-- com.bigtree.test.ImageUpload -->
+    </classes>
+  </test> <!-- FileUpload(failed) -->
+</suite> <!-- Failed suite [Bigtreecms_FileUpload] -->

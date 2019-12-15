@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">  
+<suite name="Bigtreecms_FileUpload">  
+  <test name="FileUpload">
+     <classes>
+       <class name="com.bigtree.test.ImageUpload">
+        <methods>
+        <include name="LaunchBrowser" />
+        <include name="BigTreeLogin" />
+        <include name="NavigateToFilesScreen" />
+        <include name="VerifyAddImagesScreen" />
+        <include name="VerifyDocUpload" />
+        <include name="VerifyDeleteImages" />
+        <include name="TearDown" />
+      </methods>
+       </class>
+    </classes>  
+  </test> <!-- Test -->  
+</suite> <!-- Suite -->  

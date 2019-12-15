@@ -1,0 +1,36 @@
+[main] INFO  com.bigtree.test.ImageUpload  - URL launched
+[main] WARN  com.bigtree.test.ImageUpload  - URL launched
+[main] ERROR com.bigtree.test.ImageUpload  - URL launched
+[main] FATAL com.bigtree.test.ImageUpload  - URL launched
+[main] INFO  com.bigtree.test.ImageUpload  - Browser opened
+[main] INFO  com.bigtree.test.ImageUpload  - URL launched
+[main] INFO  com.bigtree.test.ImageUpload  - Browser opened
+[main] INFO  com.bigtree.test.ImageUpload  - URL launched
+[main] INFO  com.bigtree.test.ImageUpload  - Entered Email id
+[main] INFO  com.bigtree.test.ImageUpload  - Entered Password
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on Login Button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on Files Tab
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on Add Image Tab
+[main] INFO  com.bigtree.test.ImageUpload  - Verifying navigation to Crop Image Screen
+[main] INFO  com.bigtree.test.ImageUpload  - Adding Images using drag and drop
+[main] ERROR com.bigtree.test.ImageUpload  - BigTreeJPEG.jpg file is not allowed to upload
+[main] ERROR com.bigtree.test.ImageUpload  - Clicked on continue button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on crop image button
+[main] INFO  com.bigtree.test.ImageUpload  - No more element available to crop
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on Update File
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete icon
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete file button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete icon
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete file button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete icon
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete file button
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete icon
+[main] INFO  com.bigtree.test.ImageUpload  - Clicked on delete file button
+[main] INFO  com.bigtree.test.ImageUpload  - No more image available to delete
+[main] INFO  com.bigtree.test.ImageUpload  - No More delete icon is available
